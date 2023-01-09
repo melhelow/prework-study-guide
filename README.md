@@ -1,7 +1,10 @@
 # <prework Study Guide webpage>
 
-## Description 
-my motivation is to learn and undrstand the coding process,i build this project in order to practice the process of building a website,it created a professional project, in this prject i learn and practiced analytical thinking and problem solving
+README
+
+## Discription
+my motivation is to learn and undrstand the coding process,i build this project in order to practice the process of building a website,in this prject i learn and practiced analytical thinking and problem solving
+
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
