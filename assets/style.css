@@ -33,5 +33,5 @@ p {
     width: 80%;
     margin: 40px auto;
     border: 5px solid blue;
-    box-shadow: 5px 10px #blue;
+    box-shadow: 5px 10px blue;
   }
